@@ -1,0 +1,37 @@
+#welcome-section {
+    height: 100vh;
+    background-color: #18BC9C;
+    color: white;
+    font-weight: bold;
+}
+
+#about {
+    background-color: #18BC9C;
+    height: 100vh;
+    color: white;
+}
+
+#projects {
+    color: #2C3E50;
+}
+
+#navbar a {
+    color: white;
+}
+
+nav {
+    background-color: #2C3E50;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1 , h2{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3,.card{
+    font-family: 'Lato', sans-serif;
+}
+
+
+/*font-family: 'Montserrat', sans-serif;
+font-family: 'Lato', sans-serif;*/
